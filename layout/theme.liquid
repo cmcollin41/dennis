@@ -102,6 +102,7 @@
     {%- endunless -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
+    {% if content_for_header contains 'skio.com' %}{% render 'skio-plan-picker-rewrites' %}{% endif %}
   </head>
 
   <body>

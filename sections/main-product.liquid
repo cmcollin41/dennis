@@ -255,6 +255,9 @@
                 </div>
               </div>
             </noscript>
+
+          {% if content_for_header contains 'skio.com' %}{% render 'skio-plan-picker' %}{% endif %}
+
           {%- when 'buy_buttons' -%}
             <div {{ block.shopify_attributes }}>
               <product-form class="product-form">
