@@ -66,7 +66,7 @@
       "settings": {
         "title": "Upgrade Your Daily Ritual",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Button label",
