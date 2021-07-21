@@ -4,6 +4,8 @@
     "colors_accent_1": "#b2ff59",
     "colors_text": "#212121",
     "colors_outline_button_labels": "#212121",
+    "type_header_font": "archivo_n4",
+    "type_body_font": "chivo_n4",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
