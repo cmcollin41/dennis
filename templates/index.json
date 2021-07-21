@@ -76,6 +76,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Beef Liver",
         "collection": "beef-liver",
@@ -86,6 +87,46 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_vendor": false
+      }
+    },
+    "16268987517ec9626a": {
+      "type": "collage",
+      "blocks": {
+        "16268987517ec9626a-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video for customers using screen readers",
+            "image_padding": false
+          }
+        },
+        "16268987517ec9626a-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "16268987517ec9626a-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "16268987517ec9626a-0",
+        "16268987517ec9626a-1",
+        "16268987517ec9626a-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     },
     "image_text": {
@@ -128,6 +169,7 @@
     "image_banner",
     "1626898738489ec026",
     "featured_products",
+    "16268987517ec9626a",
     "image_text"
   ]
 }
