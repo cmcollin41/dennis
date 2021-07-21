@@ -62,6 +62,15 @@
             "page": "",
             "icon": "check_mark"
           }
+        },
+        "11be1fca-b3d9-4487-8cab-74945b3f86cb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Bone Strength Support",
+            "content": "<p>Beef liver is also full of vitamin A and K2. Liver is a source of vitamin K2. You may be thinking – hey, can’t I get that from kale Vitamin K yes, but not MK-4, the type only found in animal foods. In fact, most people consuming a traditional Western diet get almost no vitamin K2. It’s necessary to note that the vitamin A in beef liver is in its most active form (retinol). This type of vitamin A only comes from animal-derived foods & does not need to be first converted like plant-based vitamin A (carotenoids), meaning that it’s ready to be used directly by the body. Vitamin A helps reduce inflammation by fighting free radical damage, helps with muscle recovery & builds strong bones.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
         }
       },
       "block_order": [
@@ -74,7 +83,8 @@
         "buy_buttons",
         "description",
         "share",
-        "a14ca0e2-b483-40d3-b63a-36d23f396e35"
+        "a14ca0e2-b483-40d3-b63a-36d23f396e35",
+        "11be1fca-b3d9-4487-8cab-74945b3f86cb"
       ],
       "settings": {
         "enable_sticky_info": true,
