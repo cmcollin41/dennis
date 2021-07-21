@@ -33,6 +33,47 @@
         "adapt_height_first_image": false
       }
     },
+    "1626898738489ec026": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626898738489ec026-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626898738489ec026-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626898738489ec026-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626898738489ec026-0",
+        "1626898738489ec026-1",
+        "1626898738489ec026-2"
+      ],
+      "settings": {
+        "title": "Upgrade Your Daily Ritual",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -81,53 +122,12 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
-    },
-    "1626898738489ec026": {
-      "type": "multicolumn",
-      "blocks": {
-        "1626898738489ec026-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626898738489ec026-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626898738489ec026-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626898738489ec026-0",
-        "1626898738489ec026-1",
-        "1626898738489ec026-2"
-      ],
-      "settings": {
-        "title": "Upgrade Your Daily Ritual",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
     "image_banner",
+    "1626898738489ec026",
     "featured_products",
-    "image_text",
-    "1626898738489ec026"
+    "image_text"
   ]
 }
